@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/%20-0e76a8?color=blue&label=Alejandro&logo=linkedin&logoColor=white&style=flat)](www.linkedin.com/in/alejandro-l-7104221b9)
+- 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/%20-0e76a8?color=blue&label=Alejandro&logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/alejandro-l-7104221b9)
 
 [![](https://github-readme-stats-kra1o5.vercel.app/api?username=Kra1o5&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
